@@ -58,3 +58,11 @@ body{
     margin-top: -15%;
     width: 100%;
 } 
+
+#info{
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
